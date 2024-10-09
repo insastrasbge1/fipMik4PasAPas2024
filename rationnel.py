@@ -7,7 +7,7 @@ def pgcd(u : int , v : int) -> int :
 
 class Rationnel() :
     """
-    une classe pour travailler sur les Rationnel
+    une classe pour travailler sur les Rationnels
     """
 
     def __init__(self,num : int = 0,denom : int = 1):
