@@ -111,6 +111,9 @@ class Point(FigureSimple):
     def minX(self) -> float:
         return self.px
 
+    def maxX(self) -> float:
+        return self.px
+
 
 class Segment(FigureSimple):
 
@@ -134,13 +137,17 @@ class Segment(FigureSimple):
     def minX(self) -> float:
         return min(self.debut.minX(),self.fin.minX())
 
+    def maxX(self) -> float:
+        return max(self.debut.maxX(),self.fin.maxX())
+
 
 if __name__ == '__main__':
     p0 = Point(0,0)
-    print(p0.couleur)
+    print(f"couleur de p0 : {p0.couleur}")
     p1 = Point(1,1)
     print(f"minX de p1 : {p1.minX()}")
     s1 = Segment(p0,p1)
     print(f"s1 = {s1}")
     print(f"minX de s1 : {s1.minX()}")
+    print(f"largeur de s1 : {s1.largeur()}")
 
