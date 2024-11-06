@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e6f91de-0500-45a1-9019-329b6bed015c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/fipMik4PasAPas2024.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RatListe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dessin/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dessin/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dessin2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dessin2/guiQT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dessin2/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rationnel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rationnelV1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testQT/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testQT/boiteACoucou.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dessin2/guiQT.py" beforeDir="false" afterPath="$PROJECT_DIR$/dessin2/guiQT.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "insastrasbge1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/insastrasbge1/fipMik4PasAPas2024",
+    "accountId": "1d41a563-607a-4b58-af36-84a27901b016"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>

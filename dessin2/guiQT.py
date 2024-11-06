@@ -41,6 +41,7 @@ class DessineModel(qtw.QGraphicsScene) :
         self.updateView()
 
     def updateView(self):
+        self.clear()
         self._main.model.dessine(self)
 
     def mousePressEvent(self, event:qtw.QGraphicsSceneMouseEvent):
